@@ -255,13 +255,13 @@ http://173.225.246.25:8889/udp/239.203.20.149:4001
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a6939b4a10d800085cee92/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
 #https://jmp2.uk/PlutoTV/65a6939b4a10d800085cee92-alt.m3u8
 
-#EXTINF:-1 group-title="MUSIC", Best of The 80s 🇬🇧
+#EXTINF:-1 group-title="MUSIC", Best of The 80s
 https://linear-759.frequency.stream/mt/studio/759/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC", Best of The 90s 🇬🇧
+#EXTINF:-1 group-title="MUSIC", Best of The 90s
 https://linear-762.frequency.stream/mt/studio/762/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC", Best of The 00s 🇬🇧
+#EXTINF:-1 group-title="MUSIC", Best of The 00s
 https://linear-763.frequency.stream/mt/studio/763/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC", Citra Dangdut
@@ -287,7 +287,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 
 #EXTINF:-1 group-title="MUSIC", MTv Classic
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654100b4bdf3cf0008aa49c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45&serverSideAds=false
-#https://jmp2.uk/PlutoTV/635bfb89b5cd9b0007ca9d63-alt.m3u8
 
 #EXTINF:-1 group-title="MUSIC", MTv Live
 https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
@@ -305,14 +304,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 
 #EXTINF:-1 group-title="MUSIC", MTv Music
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ec342-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a56dace8-66e4-4b9a-a55f-d5348160dae2&serverSideAds=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 
 #EXTINF:-1 group-title="MUSIC", MTv Rocks
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/638f2e06cc9fc2000798c410/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45&serverSideAds=false
-#https://jmp2.uk/PlutoTV/624303598e45140007d765c1-alt.m3u8
-
-#EXTINF:-1 group-title="MUSIC", Nagaswara Koplo
-https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+https://jmp2.uk/PlutoTV/624303598e45140007d765c1-alt.m3u8
 
 #EXTINF:-1 group-title="MUSIC", Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
@@ -322,27 +316,21 @@ https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC", Music",Vevo '90s
 https://d36vl7sxn34m5q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m63zgwps7b87g/playlist.m3u8
-#https://jmp2.uk/SamsungTVPlus/USBD3000133M.m3u8
 
 #EXTINF:-1 group-title="MUSIC", Music",Vevo 2010s
 https://d21cpy4ek4aipj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gchcemfivgmyw/playlist.m3u8
-#https://jmp2.uk/SamsungTVPlus/USBD120002431.m3u8
 
 #EXTINF:-1 group-title="MUSIC", Vevo 2K
 https://d2yhuqxy1ky6ij.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bel4aqksrgol2-ssai-prd/playlist.m3u8
-#https://jmp2.uk/SamsungTVPlus/USBB4400015F5.m3u8
 
 #EXTINF:-1 group-title="MUSIC", Vevo Features
 https://d281w17vgfepv6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-00dgfxdry0m4p/playlist.m3u8
-#https://jmp2.uk/SamsungTVPlus/USBD1200008GL.m3u8
 
 #EXTINF:-1 group-title="MUSIC", Vevo Pop
 https://d28edobz3hqdpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-shs19slqofvwj-ssai-prd/playlist.m3u8
-#https://jmp2.uk/SamsungTVPlus/USBC3600008WY.m3u8
 
 #EXTINF:-1 group-title="MUSIC", Vevo Retro Rock
 https://d1uttzwuh34h7x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5wuvgw5l0sw7j/playlist.m3u8
-#https://jmp2.uk/SamsungTVPlus/USBD3000145P.m3u8
 
 
 
@@ -550,6 +538,10 @@ http://onlineradiobox.com/json/id/female/play
 
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7092.jpg" group-title="RADIO",Delta FM
 http://onlineradiobox.com/json/id/deltafm/play
+
+
+
+
 
 
 
