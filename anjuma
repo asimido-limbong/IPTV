@@ -299,78 +299,78 @@ http://210.210.155.37/dr9445/h/h15/01.m3u8
 http://210.210.155.37/dr9445/h/h16/01.m3u8
 
 
-###***Movies***###
+###***MOVIES***###
 
-#EXTINF:-1 tvg-name="" tvg-id="Celestial Classic Movies.my" tvg-logo="https://iptv.urfan.web.id/logo/ccm.png" group-title="Movies",Celestial Classic Movies
+#EXTINF:-1 group-title="MOVIES",Celestial Classic Movies
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="Rock Action.id" tvg-logo="https://iptv.urfan.web.id/logo/rockact.png" group-title="Movies",Rock Action
+#EXTINF:-1 group-title="MOVIES", Rock Action
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="My Family Channel.id" tvg-logo="https://iptv.urfan.web.id/logo/mfc.png" group-title="Movies",My Family Channel
+#EXTINF:-1 group-title="MOVIES", My Family Channel
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="ROCK Entertainment" tvg-logo="https://iptv.urfan.web.id/logo/rockent.png" group-title="Movies",Rock Entertainment
+#EXTINF:-1 group-title="MOVIES", Rock Entertainment
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="Celestial Movies" tvg-logo="https://iptv.urfan.web.id/logo/cm.png" group-title="Movies",Celestial Movies
+#EXTINF:-1 group-title="MOVIES", Celestial Movies
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
 
-#EXTINF:-1 tvg-name="MY CINEMA" tvg-id="My Cinema" tvg-logo="https://i.ibb.co.com/z72Hk70/mycinema.png" group-title="Movies",MY CINEMA
+#EXTINF:-1 group-title="MOVIES", My Cinema
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_HD
 
-#EXTINF:-1 tvg-name="MY FAMILY CHANNEL" tvg-id="My Family Channel.id" tvg-logo="https://i.ibb.co.com/S0LTLmm/myfamilych.png" group-title="Movies",MY FAMILY CHANNEL
+#EXTINF:-1 group-title="MOVIES", My Family Channel
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&userid=lite&chname=My_Family_Channel
 
-#EXTINF:-1 tvg-name="" tvg-id="TVN Movies" tvg-logo="https://iptv.urfan.web.id/logo/tvnmovies.png" group-title="Movies",tvN Movies (4.0s)
+#EXTINF:-1 group-title="MOVIES", tvN Movies
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="Bioskop Indonesia" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be26e4325724/20200924032733.png" group-title="Movies",Bioskop Indonesia
+#EXTINF:-1 group-title="MOVIES", Bioskop Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="Cinemax HDTV (East)" tvg-logo="https://i.ibb.co.com/qgYQyVV/cinemax.png" group-title="Movies",CINEMAX
+#EXTINF:-1 group-title="MOVIES", Cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
 https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
-#EXTINF:-1 tvg-name="HBO.th" tvg-id="HBO.th" tvg-logo="https://www.pinclipart.com/picdir/big/217-2170584_hbo-logo-png-clipart-transparent-hbo-logo-png.png" group-title="Movies",HBO
+#EXTINF:-1 group-title="MOVIES", HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 tvg-name="HBO Family" tvg-id="HBO Family.my" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png/revision/latest?cb=20110407003848" group-title="Movies",HBO Family
+#EXTINF:-1 group-title="MOVIES", HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:-1 tvg-name="HBO Hits" tvg-id="HBO Hits.my" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="Movies",HBO HitS
+#EXTINF:-1 group-title="MOVIES", HBO HitS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="HBOSignatureEast.us" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="Movies",HBO Signature
+#EXTINF:-1 group-title="MOVIES", HBO Signature
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -379,25 +379,25 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#EXTINF:-1 tvg-name="AXN" tvg-id="AXN - [Channel 154].id" tvg-logo="https://i.ibb.co.com/f9XVz9j/axn.png" group-title="Movies",AXN
+#EXTINF:-1 group-title="MOVIES", AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08
 https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
 
-#EXTINF:-1 tvg-name="ROCK ACTION" tvg-id="Rock Action.id" tvg-logo="https://i.ibb.co.com/qCfw7yD/rockact.png" group-title="Movies",ROCK ACTION
+#EXTINF:-1 group-title="MOVIES", Rock Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
 
-#EXTINF:-1 tvg-name="ONE" tvg-id="ONE - [Channel 164].id" tvg-logo="https://i.ibb.co.com/xShgJyY/one.png" group-title="Movies",ONE
+#EXTINF:-1 group-title="MOVIES", ONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
 https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="Cinemax HDTV (East)" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="Movies",Cinemax
+#EXTINF:-1 group-title="MOVIES", Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -406,10 +406,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="HBO Signature.th" tvg-logo="https://i.ibb.co.com/WBVQq4Y/hbosig.png" group-title="Movies",HBO SIGNATURE 🇹🇭 🇺🇸 (89.6s)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
+#EXTINF:-1 group-title="MOVIES", My Cinema Europe
+http://rr.dens.tv/h/h18/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Europe_HD
 
 
 
