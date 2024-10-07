@@ -459,22 +459,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 ###***ENTERTAINMENT CHANNEL***###
 
 #EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", Just For Laughs Gags
-https://i.mjh.nz/SamsungTVPlus/USBC4400004KK.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", Just For Laughs Gags 1
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", Just For Laughs Gags 2
 https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", Just For Laughs Gags 3
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjustforlaughsgags/CDN/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", FashionTV Midnight Secrets
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", 13 Humor
-https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", Dunia Games
 #EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.4 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
