@@ -849,41 +849,24 @@ https://i.klikhost.com/9610/stream
 
 
 
-###***XXX CHANNEL***###
+###***OTHER CHANNEL***###
 
 
-#EXTINF:-1 group-title="XXX CHANNEL", Fake Agent
-http://A/ku9/js/159169.js?ip=fccsen.dyndns.tv&id=615a58fd0007a1c8b9bd43d151270d9b
-
-#EXTINF:-1 group-title="XXX CHANNEL", Fake Hospital
-http://A/ku9/js/159169.js?ip=fccsen.dyndns.tv&id=615a5bb90005f820b9c7f1cc2cfe5f8e
-
-#EXTINF:-1 group-title="XXX CHANNEL", Fake Taxi
-http://A/ku9/js/159169.js?ip=fccsen.dyndns.tv&id=615a5c0e000a608eb9c93ef2199b14e4
-
-#EXTINF:-1 group-title="XXX CHANNEL", MILF
+#EXTINF:-1 group-title="OTHER CHANNEL", MILF
 http://cdn.adultiptv.net/milf.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNEL", Russian
+#EXTINF:-1 group-title="OTHER CHANNEL", Russian
 http://cdn.adultiptv.net/russian.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNEL", Brunette
+#EXTINF:-1 group-title="OTHER CHANNEL", Brunette
 http://cdn.adultiptv.net/brunette.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNEL", Blonde
+#EXTINF:-1 group-title="OTHER CHANNEL", Blonde
 http://cdn.adultiptv.net/blonde.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNEL", Asian
+#EXTINF:-1 group-title="OTHER CHANNEL", Asian
 http://cdn.adultiptv.net/asian.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNEL", Adult MILF
-http://mondial.cybergroup.top:8080/ctCs1eWMV7/oIJ61vd4I1/87391
-
-#EXTINF:-1 group-title="XXX CHANNEL", Adult Russian
-http://mondial.cybergroup.top:8080/ctCs1eWMV7/oIJ61vd4I1/87394
-
-#EXTINF:-1 group-title="XXX CHANNEL", Czech Street
-http://mondial.cybergroup.top:8080/ctCs1eWMV7/oIJ61vd4I1/87471#EXTM3U
 
 
 
