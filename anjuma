@@ -458,6 +458,24 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
 ###***ENTERTAINMENT CHANNEL***###
 
+#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", Just For Laughs Gags
+https://i.mjh.nz/SamsungTVPlus/USBC4400004KK.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", Just For Laughs Gags 1
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", Just For Laughs Gags 2
+https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", Just For Laughs Gags 3
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjustforlaughsgags/CDN/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", FashionTV Midnight Secrets
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", 13 Humor
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+
 #EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", Dunia Games
 #EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.4 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8
@@ -844,8 +862,32 @@ https://i.klikhost.com/9610/stream
 
 
 
+###***XXX CHANNEL***###
 
 
+#EXTINF:-1 group-title="XXX CHANNEL", Bang Bros
+http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6173/index.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", Brazzers eXXtra
+http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6181/index.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", Brazzers HD
+http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6182/index.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", Fake Taxi
+http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6202/index.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", Japan
+http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6225/index.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", MYLF TV
+http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6236/index.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", Public Agent
+http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6246/index.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", MILF
+http://cdn.adultiptv.net/milf.m3u8
 
 
 
