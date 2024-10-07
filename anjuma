@@ -849,22 +849,22 @@ https://i.klikhost.com/9610/stream
 
 
 
-###***OTHER CHANNEL***###
+###***XXX CHANNEL***###
 
 
-#EXTINF:-1 group-title="OTHER CHANNEL", MILF
+#EXTINF:-1 group-title="XXX CHANNEL", MILF
 http://cdn.adultiptv.net/milf.m3u8
 
-#EXTINF:-1 group-title="OTHER CHANNEL", Russian
+#EXTINF:-1 group-title="XXX CHANNEL", Russian
 http://cdn.adultiptv.net/russian.m3u8
 
-#EXTINF:-1 group-title="OTHER CHANNEL", Brunette
+#EXTINF:-1 group-title="XXX CHANNEL", Brunette
 http://cdn.adultiptv.net/brunette.m3u8
 
-#EXTINF:-1 group-title="OTHER CHANNEL", Blonde
+#EXTINF:-1 group-title="XXX CHANNEL", Blonde
 http://cdn.adultiptv.net/blonde.m3u8
 
-#EXTINF:-1 group-title="OTHER CHANNEL", Asian
+#EXTINF:-1 group-title="XXX CHANNEL", Asian
 http://cdn.adultiptv.net/asian.m3u8
 
 
