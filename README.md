@@ -367,11 +367,11 @@ http://cempedak-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/A
 #EXTINF:-1 group-title="INTERNATIONAL NEWS CHANNEL", News Now from FOX
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="INTERNATIONAL NEWS CHANNEL", Channel News Asia
+http://210.210.155.35/uq2663/h/h29/01.m3u8
+
 
 ###***KNOWLEDGE CHANNEL***###
-
-#EXTINF:-1 group-title="KNOWLEDGE CHANNEL", Channel News Asia
-http://210.210.155.35/uq2663/h/h29/01.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE CHANNEL", History
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803e7983b391d73b13/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -457,13 +457,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltre
 https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
 ###***ENTERTAINMENT CHANNEL***###
-
-#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", Just For Laughs
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", Fashion TV
-#EXT-X-STREAM-INF:CODECS="avc1.4d4029,mp4a.40.2",AVERAGE-BANDWIDTH=4760800,RESOLUTION=1920x1080,FRAME-RATE=25.0,BANDWIDTH=4945600
-https://9d71e7fce78e454e967afe6d07e80146.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_FashionTV/f53110ac-13b4-47b4-b0da-5a4723dc3456/1.m3u
 
 #EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", Dunia Games
 #EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.4 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
