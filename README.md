@@ -476,50 +476,50 @@ https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
 
-EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", CJ E&M
+#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", CJ E&M
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 
-EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", K+
+#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", K+
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
 
-EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", KBS Korea
+#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", KBS Korea
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 
-EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", KBS World
+#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", KBS World
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 
-EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", KIX
+#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", KIX
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
 
-EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", Rock Entertainment
+#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", Rock Entertainment
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
 
-EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", SBSTV
+#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", SBSTV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", DENS Show Biz
+#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", DENS Show Biz
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
 
-EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", DENS Play
+#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", DENS Play
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
 
-EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", SEA TODAY
+#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", SEA TODAY
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://hls.seatoday.com/hls_hd/seatoday.m3u8
 
@@ -546,30 +546,30 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 
-##EXTINF:-1 group-title="SPORT CHANNEL", IMPACT! Wrestling
+#EXTINF:-1 group-title="SPORT CHANNEL", IMPACT! Wrestling
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-##EXTINF:-1 group-title="SPORT CHANNEL", Motorvision TV
+#EXTINF:-1 group-title="SPORT CHANNEL", Motorvision TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
-##EXTINF:-1 group-title="SPORT CHANNEL", MUTV
+#EXTINF:-1 group-title="SPORT CHANNEL", MUTV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-##EXTINF:-1 group-title="SPORT CHANNEL", PSJ TV
+#EXTINF:-1 group-title="SPORT CHANNEL", PSJ TV
 #EXTVLCOPT:http-user-agent=AccolaPlay/2.0.3 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
-##EXTINF:-1 group-title="SPORT CHANNEL", Real Madrid TV
+#EXTINF:-1 group-title="SPORT CHANNEL", Real Madrid TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
 
-##EXTINF:-1 group-title="SPORT CHANNEL", One Golf
+#EXTINF:-1 group-title="SPORT CHANNEL", One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 
-##EXTINF:-1 group-title="SPORT CHANNEL", Tennis
+#EXTINF:-1 group-title="SPORT CHANNEL", Tennis
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 
 ###***MUSIC CHANNEL***###
@@ -678,7 +678,6 @@ http://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
-
 
 #EXTINF:-1 group-title="PREMIUM CHANNEL", KIX
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -853,29 +852,42 @@ https://i.klikhost.com/9610/stream
 ###***XXX CHANNEL***###
 
 
-#EXTINF:-1 group-title="XXX CHANNEL", Bang Bros
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6173/index.m3u8
+#EXTINF:-1 group-title="XXX CHANNEL", Fake Agent
+http://A/ku9/js/159169.js?ip=fccsen.dyndns.tv&id=615a58fd0007a1c8b9bd43d151270d9b
 
-#EXTINF:-1 group-title="XXX CHANNEL", Brazzers eXXtra
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6181/index.m3u8
-
-#EXTINF:-1 group-title="XXX CHANNEL", Brazzers HD
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6182/index.m3u8
+#EXTINF:-1 group-title="XXX CHANNEL", Fake Hospital
+http://A/ku9/js/159169.js?ip=fccsen.dyndns.tv&id=615a5bb90005f820b9c7f1cc2cfe5f8e
 
 #EXTINF:-1 group-title="XXX CHANNEL", Fake Taxi
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6202/index.m3u8
-
-#EXTINF:-1 group-title="XXX CHANNEL", Japan
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6225/index.m3u8
-
-#EXTINF:-1 group-title="XXX CHANNEL", MYLF TV
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6236/index.m3u8
-
-#EXTINF:-1 group-title="XXX CHANNEL", Public Agent
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6246/index.m3u8
+http://A/ku9/js/159169.js?ip=fccsen.dyndns.tv&id=615a5c0e000a608eb9c93ef2199b14e4
 
 #EXTINF:-1 group-title="XXX CHANNEL", MILF
 http://cdn.adultiptv.net/milf.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", Russian
+http://cdn.adultiptv.net/russian.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", Asian
+http://cdn.adultiptv.net/asian.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", Adult MILF
+http://mondial.cybergroup.top:8080/ctCs1eWMV7/oIJ61vd4I1/87391
+
+#EXTINF:-1 group-title="XXX CHANNEL", Adult Russian
+http://mondial.cybergroup.top:8080/ctCs1eWMV7/oIJ61vd4I1/87394
+
+#EXTINF:-1 group-title="XXX CHANNEL", Czech Street
+http://mondial.cybergroup.top:8080/ctCs1eWMV7/oIJ61vd4I1/87471#EXTM3U
+
+
+
+
 
 
 
@@ -885,3 +897,5 @@ http://cdn.adultiptv.net/milf.m3u8
 
 
 #EXTM3U billed-msg="📌REFRESH Channel DENGAN KLIK ICON Power DIBAWAH ICON ⚙️"
+
+
