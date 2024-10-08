@@ -17,10 +17,6 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 group-title="LOCAL CHANNEL", Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="LOCAL CHANNEL", Jogja TV
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-
 #EXTINF:-1 group-title="LOCAL CHANNEL", UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
@@ -476,50 +472,50 @@ https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", CJ E&M
+EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", CJ E&M
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", K+
+EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", K+
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", KBS Korea
+EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", KBS Korea
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", KBS World
+EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", KBS World
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", KIX
+EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", KIX
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", Rock Entertainment
+EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", Rock Entertainment
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", SBSTV
+EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", SBSTV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", DENS Show Biz
+EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", DENS Show Biz
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", DENS Play
+EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", DENS Play
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", SEA TODAY
+EXTINF:-1 group-title="ENTERTAINMENT CHANNEL", SEA TODAY
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://hls.seatoday.com/hls_hd/seatoday.m3u8
 
@@ -577,10 +573,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 group-title="MUSIC CHANNEL", IMTV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
-
-#EXTINF:-1 group-title="MUSIC CHANNEL", K-Pop TV
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC CHANNEL", Maleo
 #EXTVLCOPT:http-user-agent=AccolaPlay/2.0.3 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
@@ -678,6 +670,7 @@ http://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
 
 #EXTINF:-1 group-title="PREMIUM CHANNEL", KIX
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -852,25 +845,29 @@ https://i.klikhost.com/9610/stream
 ###***XXX CHANNEL***###
 
 
+#EXTINF:-1 group-title="XXX CHANNEL", Bang Bros
+http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6173/index.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", Brazzers eXXtra
+http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6181/index.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", Brazzers HD
+http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6182/index.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", Fake Taxi
+http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6202/index.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", Japan
+http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6225/index.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", MYLF TV
+http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6236/index.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", Public Agent
+http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6246/index.m3u8
+
 #EXTINF:-1 group-title="XXX CHANNEL", MILF
 http://cdn.adultiptv.net/milf.m3u8
-
-#EXTINF:-1 group-title="XXX CHANNEL", Russian
-http://cdn.adultiptv.net/russian.m3u8
-
-#EXTINF:-1 group-title="XXX CHANNEL", Brunette
-http://cdn.adultiptv.net/brunette.m3u8
-
-#EXTINF:-1 group-title="XXX CHANNEL", Blonde
-http://cdn.adultiptv.net/blonde.m3u8
-
-#EXTINF:-1 group-title="XXX CHANNEL", Asian
-http://cdn.adultiptv.net/asian.m3u8
-
-
-
-
-
 
 
 
