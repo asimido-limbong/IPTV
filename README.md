@@ -671,7 +671,6 @@ http://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mp
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-
 #EXTINF:-1 group-title="PREMIUM CHANNEL", KIX
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -698,21 +697,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ###***HBO CHANNEL***###
 
@@ -765,21 +749,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ###***RADIO***###
 
@@ -842,31 +811,31 @@ https://i.klikhost.com/9610/stream
 
 
 
-###***XXX CHANNEL***###
+1$###***XXX CHANNEL***###
 
 
-#EXTINF:-1 group-title="XXX CHANNEL", Bang Bros
+1$#EXTINF:-1 group-title="XXX CHANNEL", Bang Bros
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6173/index.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNEL", Brazzers eXXtra
+1$#EXTINF:-1 group-title="XXX CHANNEL", Brazzers eXXtra
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6181/index.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNEL", Brazzers HD
+1$#EXTINF:-1 group-title="XXX CHANNEL", Brazzers HD
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6182/index.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNEL", Fake Taxi
+1$#EXTINF:-1 group-title="XXX CHANNEL", Fake Taxi
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6202/index.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNEL", Japan
+1$#EXTINF:-1 group-title="XXX CHANNEL", Japan
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6225/index.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNEL", MYLF TV
+1$#EXTINF:-1 group-title="XXX CHANNEL", MYLF TV
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6236/index.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNEL", Public Agent
+1$#EXTINF:-1 group-title="XXX CHANNEL", Public Agent
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6246/index.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNEL", MILF
+1$#EXTINF:-1 group-title="XXX CHANNEL", MILF
 http://cdn.adultiptv.net/milf.m3u8
 
 
