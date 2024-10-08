@@ -273,6 +273,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon
 #KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
 https://d1abp075u76pbq.cloudfront.net/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd|Referer=https://www.visionplus.id
 
+#EXTINF:-1 group-title="KIDS", Cinemachi Kids
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
 #EXTINF:-1 group-title="KIDS", PBS Kids
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -472,65 +478,65 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 #EXTINF:-1 group-title="ENTERTAINMENT", Just For Laughs Gags
 https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT"FashionTV Midnight Secrets
+#EXTINF:-1 group-title="ENTERTAINMENT", FashionTV Midnight Secrets
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT"Dunia Games
+#EXTINF:-1 group-title="ENTERTAINMENT", Dunia Games
 #EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.4 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT"EBS 1
+#EXTINF:-1 group-title="ENTERTAINMENT", EBS 1
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT"EBS 2
+#EXTINF:-1 group-title="ENTERTAINMENT", EBS 2
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT"CJ E&M
+#EXTINF:-1 group-title="ENTERTAINMENT", CJ E&M
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT"K+
+#EXTINF:-1 group-title="ENTERTAINMENT", K+
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT"KBS Korea
+#EXTINF:-1 group-title="ENTERTAINMENT", KBS Korea
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT"KBS World
+#EXTINF:-1 group-title="ENTERTAINMENT", KBS World
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT"KIX
+#EXTINF:-1 group-title="ENTERTAINMENT", KIX
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT"Rock Entertainment
+#EXTINF:-1 group-title="ENTERTAINMENT", Rock Entertainment
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT"SBSTV
+#EXTINF:-1 group-title="ENTERTAINMENT", SBSTV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT"DENS Show Biz
+#EXTINF:-1 group-title="ENTERTAINMENT", DENS Show Biz
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT"DENS Play
+#EXTINF:-1 group-title="ENTERTAINMENT", DENS Play
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT"SEA TODAY
+#EXTINF:-1 group-title="ENTERTAINMENT", SEA TODAY
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://hls.seatoday.com/hls_hd/seatoday.m3u8
 
@@ -718,6 +724,30 @@ http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_HD
 
+#EXTINF:-1 group-title="PREMIUM MOVIE", Cinemachi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
+#https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Cinemachi Action
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
+#https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Cinemachi Max
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
+#https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIE", Cinemachi Xtra
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
+#https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+
 #EXTINF:-1 group-title="PREMIUM MOVIE", Zee Bioskop
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -845,32 +875,61 @@ https://i.klikhost.com/9610/stream
 
 
 
-1$###***XXX CHANNEL***###
 
 
-1$#EXTINF:-1 group-title="XXX CHANNEL", Bang Bros
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6173/index.m3u8
+###***XXX CHANNEL***###
 
-1$#EXTINF:-1 group-title="XXX CHANNEL", Brazzers eXXtra
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6181/index.m3u8
+#EXTINF:-1 group-title="XXX CHANNEL", Zoey Holloway and Raylene
+http://6122.vod.redtraffic.xyz/ph5b0041280bdea/play.m3u8
 
-1$#EXTINF:-1 group-title="XXX CHANNEL", Brazzers HD
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6182/index.m3u8
+#EXTINF:-1 group-title="XXX CHANNEL", Stella Cox
+http://10238.vod.redtraffic.xyz/ph57993f4958a8f/play.m3u8
 
-1$#EXTINF:-1 group-title="XXX CHANNEL", Fake Taxi
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6202/index.m3u8
+#EXTINF:-1 group-title="XXX CHANNEL", Jodi West
+http://1244.vod.redtraffic.xyz/ph58dc3f4ec098f/play.m3u8
 
-1$#EXTINF:-1 group-title="XXX CHANNEL", Japan
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6225/index.m3u8
-
-1$#EXTINF:-1 group-title="XXX CHANNEL", MYLF TV
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6236/index.m3u8
-
-1$#EXTINF:-1 group-title="XXX CHANNEL", Public Agent
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6246/index.m3u8
-
-1$#EXTINF:-1 group-title="XXX CHANNEL", MILF
+#EXTINF:-1 group-title="XXX CHANNEL", MILF
 http://cdn.adultiptv.net/milf.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", Russian
+http://live.adultiptv.net/russian.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", Latina
+http://live.adultiptv.net/latina.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", Lesbian
+http://live.adultiptv.net/lesbian.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", Brunette
+http://live.adultiptv.net/brunette.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", Blonde
+http://live.adultiptv.net/blonde.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", Asian
+http://live.adultiptv.net/asian.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", Jessica Bangkok
+http://1465.vod.adultiptv.net/ph56fe64f55c245/play.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNEL", Irina Pavlova
+http://1244.vod.redtraffic.xyz/ph583795614daf5/play.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
