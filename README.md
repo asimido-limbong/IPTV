@@ -1052,7 +1052,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34
 #EXTINF:-1 group-title="SPORT", Sports TV 
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
-#EXTINF:-1 group-title="SPORT", Unifi (UFC live) 
+#EXTINF:-1 group-title="SPORT", Unifi Sports UFC
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 group-title="SPORT", Wrestling
